@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-16T19:45:00+00:00",
+  "revision": "2026-10-16T20:13:53+00:00",
   "tracks": [
     {
       "id": "softbeat",
@@ -127,6 +127,24 @@
       "file": "tracks/morning-groove-c843e743692c1c80.wav",
       "bytes": 3256660,
       "sha256": "c843e743692c1c80ac9e0e3acdd46576a97fc304fb72c6a56332f16d33ad1c1b"
+    },
+    {
+      "id": "neon-morning",
+      "title": {
+        "en": "Neon Morning",
+        "tr": "Neon sabah",
+        "de": "Neonmorgen",
+        "es": "Mañana neón",
+        "pt-BR": "Manhã neon",
+        "fr": "Matin néon"
+      },
+      "genre": "Disco",
+      "bpm": 116,
+      "duration": 33.10344671201814,
+      "pro": false,
+      "file": "tracks/neon-morning-1158f969d450d032.wav",
+      "bytes": 2919768,
+      "sha256": "1158f969d450d03278eae511bf22aa0a444f4d82e029e57988e43067fbde9a08"
     }
   ]
 }
