@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-16T23:21:22+00:00",
+  "revision": "2026-10-16T23:25:05+00:00",
   "tracks": [
     {
       "id": "softbeat",
@@ -331,6 +331,420 @@
       "attribution": "\"Spring of 2026\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13618-spring-of-2026\nAudio unchanged; ID3 attribution metadata updated for distribution.",
       "releaseDate": "2026-03-16",
       "aiAssisted": true,
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "tropical-island-house-2024",
+      "title": {
+        "en": "Tropical Island House 2024 — Sascha Ende · CC BY 4.0",
+        "tr": "Tropical Island House 2024 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Tropical House",
+      "bpm": 100,
+      "duration": 130.824,
+      "pro": true,
+      "file": "tracks/tropical-island-house-2024-45b8bea78f540bb7.mp3",
+      "bytes": 2094574,
+      "sha256": "45b8bea78f540bb7060d017fa473cb61f87819953d4a0ab45e453140a0e92842",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/12259-tropical-island-house-2024",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Tropical Island House 2024\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/12259-tropical-island-house-2024\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 127999
+    },
+    {
+      "id": "cry",
+      "title": {
+        "en": "Cry — Sascha Ende · CC BY 4.0",
+        "tr": "Cry — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Dance / Club",
+      "bpm": 100,
+      "duration": 175.2555,
+      "pro": true,
+      "file": "tracks/cry-dd37516240486979.mp3",
+      "bytes": 2805350,
+      "sha256": "dd3751624048697924a92da0472c6b9a91f409b014f9e896f5584facd3790d53",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/10346-cry",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Cry\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/10346-cry\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 127999
+    },
+    {
+      "id": "chill-house-vol-7",
+      "title": {
+        "en": "Chill House Vol. 7 — Sascha Ende · CC BY 4.0",
+        "tr": "Chill House Vol. 7 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Chill House",
+      "bpm": 120,
+      "duration": 163.704,
+      "pro": true,
+      "file": "tracks/chill-house-vol-7-3adbf85928c03833.mp3",
+      "bytes": 2620595,
+      "sha256": "3adbf85928c038336b69659b95aec7bc441398167988d4cd6795288ae972620e",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13019-chill-house-vol-7",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Chill House Vol. 7\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13019-chill-house-vol-7\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "sunset-paradise-the-2026-remixes",
+      "title": {
+        "en": "Sunset Paradise [The 2026 Remixes] — Sascha Ende · CC BY 4.0",
+        "tr": "Sunset Paradise [The 2026 Remixes] — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Tropical House",
+      "bpm": 125,
+      "duration": 170.04,
+      "pro": true,
+      "file": "tracks/sunset-paradise-the-2026-remixes-35cedae03c7bc28e.mp3",
+      "bytes": 2722080,
+      "sha256": "35cedae03c7bc28e1f4188eb3b22a100d2c625919261435a306bcd2c0ff76e92",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13578-sunset-paradise-the-2026-remixes",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Sunset Paradise [The 2026 Remixes]\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13578-sunset-paradise-the-2026-remixes\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "chill-house-vol-6",
+      "title": {
+        "en": "Chill House Vol. 6 — Sascha Ende · CC BY 4.0",
+        "tr": "Chill House Vol. 6 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Chill House",
+      "bpm": 119,
+      "duration": 195.6,
+      "pro": true,
+      "file": "tracks/chill-house-vol-6-36ecfd4d7e7233a3.mp3",
+      "bytes": 3130931,
+      "sha256": "36ecfd4d7e7233a3890066b50ee47e2da103e35d300ff1972671b72f74d7643a",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13018-chill-house-vol-6",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Chill House Vol. 6\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13018-chill-house-vol-6\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "chill-house-vol-8",
+      "title": {
+        "en": "Chill House Vol. 8 — Sascha Ende · CC BY 4.0",
+        "tr": "Chill House Vol. 8 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Chill House",
+      "bpm": 120,
+      "duration": 194.064,
+      "pro": true,
+      "file": "tracks/chill-house-vol-8-ff2a33ca289b74bf.mp3",
+      "bytes": 3106355,
+      "sha256": "ff2a33ca289b74bfe75848d4d7e33f08d3fe14e893b37a09dd454d3034f1e4f3",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13049-chill-house-vol-8",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Chill House Vol. 8\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13049-chill-house-vol-8\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "tropical-island-house-2025",
+      "title": {
+        "en": "Tropical Island House 2025 — Sascha Ende · CC BY 4.0",
+        "tr": "Tropical Island House 2025 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Tropical House",
+      "bpm": 126,
+      "duration": 150.504,
+      "pro": true,
+      "file": "tracks/tropical-island-house-2025-3efc04b231e8a160.mp3",
+      "bytes": 2409454,
+      "sha256": "3efc04b231e8a160a64e02f3e1b6e213846c946c08082f47ecac6fc9ff3054c6",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13305-tropical-island-house-2025",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Tropical Island House 2025\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13305-tropical-island-house-2025\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "chill-house-vol-4",
+      "title": {
+        "en": "Chill House Vol. 4 — Sascha Ende · CC BY 4.0",
+        "tr": "Chill House Vol. 4 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Chill House",
+      "bpm": 116,
+      "duration": 171.384,
+      "pro": true,
+      "file": "tracks/chill-house-vol-4-e96660c5f90dc8ad.mp3",
+      "bytes": 2743475,
+      "sha256": "e96660c5f90dc8ad56ddc4b25638738f2e64f1811c76400e0318d425a17980a6",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13016-chill-house-vol-4",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Chill House Vol. 4\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13016-chill-house-vol-4\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "chill-house-vol-3",
+      "title": {
+        "en": "Chill House Vol. 3 — Sascha Ende · CC BY 4.0",
+        "tr": "Chill House Vol. 3 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Chill House",
+      "bpm": 117,
+      "duration": 136.32,
+      "pro": true,
+      "file": "tracks/chill-house-vol-3-191638753bc9502e.mp3",
+      "bytes": 2182451,
+      "sha256": "191638753bc9502ead71f4502666bf4ef3714634f01c120cab591525b17b2d3f",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13009-chill-house-vol-3",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Chill House Vol. 3\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13009-chill-house-vol-3\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "chill-house-vol-16",
+      "title": {
+        "en": "Chill House Vol. 16 — Sascha Ende · CC BY 4.0",
+        "tr": "Chill House Vol. 16 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Chill House",
+      "bpm": 122,
+      "duration": 196.464,
+      "pro": true,
+      "file": "tracks/chill-house-vol-16-94637cec56e1b321.mp3",
+      "bytes": 3144762,
+      "sha256": "94637cec56e1b321caec3b8fad57269cf1e5a04076018eb257725c9b7e4e67f5",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13148-chill-house-vol-16",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Chill House Vol. 16\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13148-chill-house-vol-16\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "lindener-narren-schutzenfest-2026",
+      "title": {
+        "en": "Lindener Narren - Schützenfest 2026 — Sascha Ende · CC BY 4.0",
+        "tr": "Lindener Narren - Schützenfest 2026 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Dance Pop",
+      "bpm": 130,
+      "duration": 189.84,
+      "pro": true,
+      "file": "tracks/lindener-narren-schutzenfest-2026-b6fa93eb4b87bd03.mp3",
+      "bytes": 3038887,
+      "sha256": "b6fa93eb4b87bd03837c5c2bfdc3bbecb2d294488e65203b1a12f21074b0868f",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13821-lindener-narren-schutzenfest-2026",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Lindener Narren - Schützenfest 2026\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13821-lindener-narren-schutzenfest-2026\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "chill-house-vol-9",
+      "title": {
+        "en": "Chill House Vol. 9 — Sascha Ende · CC BY 4.0",
+        "tr": "Chill House Vol. 9 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Chill House",
+      "bpm": 120,
+      "duration": 180.12,
+      "pro": true,
+      "file": "tracks/chill-house-vol-9-8f89e75caf194ec0.mp3",
+      "bytes": 2883251,
+      "sha256": "8f89e75caf194ec0da45a33871f87e17b62a20f274b20876184a17671b074265",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13050-chill-house-vol-9",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Chill House Vol. 9\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13050-chill-house-vol-9\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "chill-house-vol-1",
+      "title": {
+        "en": "Chill House Vol. 1 — Sascha Ende · CC BY 4.0",
+        "tr": "Chill House Vol. 1 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Chill House",
+      "bpm": 120,
+      "duration": 198.072,
+      "pro": true,
+      "file": "tracks/chill-house-vol-1-21044a71ee03fd98.mp3",
+      "bytes": 3170483,
+      "sha256": "21044a71ee03fd98cd1557bca4ea4be5a068daa0ab00287da90383dbe75dca4a",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13007-chill-house-vol-1",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Chill House Vol. 1\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13007-chill-house-vol-1\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "rio-tropical",
+      "title": {
+        "en": "Rio Tropical — Sascha Ende · CC BY 4.0",
+        "tr": "Rio Tropical — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Tropical House",
+      "bpm": 116,
+      "duration": 122.352,
+      "pro": true,
+      "file": "tracks/rio-tropical-5fab0129cacfe06f.mp3",
+      "bytes": 1958924,
+      "sha256": "5fab0129cacfe06f0bc1d0c10a6bc4569fb7de2d7ac686485e7c05eafec08bd0",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13832-rio-tropical",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Rio Tropical\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13832-rio-tropical\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "spain-2025-tropical-house-1",
+      "title": {
+        "en": "Spain 2025 - Tropical House 1 — Sascha Ende · CC BY 4.0",
+        "tr": "Spain 2025 - Tropical House 1 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Tropical House",
+      "bpm": 123,
+      "duration": 189.36,
+      "pro": true,
+      "file": "tracks/spain-2025-tropical-house-1-96beef55adef04a5.mp3",
+      "bytes": 3031165,
+      "sha256": "96beef55adef04a5715e54a67af02ff74689ae5b9d3a142d05c55b2dcc5a9294",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13244-spain-2025-tropical-house-1",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Spain 2025 - Tropical House 1\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13244-spain-2025-tropical-house-1\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 127999
+    },
+    {
+      "id": "summer-swing-2025",
+      "title": {
+        "en": "Summer Swing 2025 — Sascha Ende · CC BY 4.0",
+        "tr": "Summer Swing 2025 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Electro Swing",
+      "bpm": 125,
+      "duration": 195.0,
+      "pro": true,
+      "file": "tracks/summer-swing-2025-1cccd636744084a2.mp3",
+      "bytes": 3121327,
+      "sha256": "1cccd636744084a2f84e61484526d51473499e7b3e27143c31ea43dc3aeade26",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13169-summer-swing-2025",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Summer Swing 2025\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13169-summer-swing-2025\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "deep-trance-vol-2",
+      "title": {
+        "en": "Deep Trance Vol. 2 — Sascha Ende · CC BY 4.0",
+        "tr": "Deep Trance Vol. 2 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Trance",
+      "bpm": 125,
+      "duration": 218.832,
+      "pro": true,
+      "file": "tracks/deep-trance-vol-2-154eead1b198bc2d.mp3",
+      "bytes": 3502643,
+      "sha256": "154eead1b198bc2ddd963280180de878011a355948e4a02098241f8e45ce898c",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13033-deep-trance-vol-2",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Deep Trance Vol. 2\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13033-deep-trance-vol-2\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "summer-action-2026-vol-3",
+      "title": {
+        "en": "Summer Action 2026 Vol. 3 — Sascha Ende · CC BY 4.0",
+        "tr": "Summer Action 2026 Vol. 3 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Dance / Club",
+      "bpm": 130,
+      "duration": 206.952,
+      "pro": true,
+      "file": "tracks/summer-action-2026-vol-3-37b1e4e08853a7f2.mp3",
+      "bytes": 3312612,
+      "sha256": "37b1e4e08853a7f2ede91af8d8588473d7dadb429e0270f3de1e12190c710ab2",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13639-summer-action-2026-vol-3",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Summer Action 2026 Vol. 3\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13639-summer-action-2026-vol-3\nAudio unchanged; ID3 attribution metadata updated for distribution.",
       "bpmEstimated": true,
       "audioBitrate": 128000
     }

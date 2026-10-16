@@ -73,3 +73,151 @@ Licensed under Creative Commons: By Attribution 4.0 License
 https://creativecommons.org/licenses/by/4.0/
 Source: https://ende.app/en/song/13618-spring-of-2026
 Audio unchanged; ID3 attribution metadata updated for distribution.
+
+# Sascha Ende — Dance/Club additions
+
+Eighteen new tracks from the first Dance/Club page were added on 2026-10-17 (Europe/Istanbul). Spring of 2026 and Tropical Island House 2026 were already present and were not duplicated. Source list: https://ende.app/en/genres/dance-club . The original public player MP3 audio is unchanged; only ID3 credit metadata is updated. BPM values are local estimates. All tracks retain their CC BY 4.0 permissions; Pro access controls app selection, not the recipients’ license rights. Artist terms: https://ende.app/en/standard-license .
+
+## Tropical Island House 2024
+
+"Tropical Island House 2024" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/12259-tropical-island-house-2024
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Cry
+
+"Cry" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/10346-cry
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Chill House Vol. 7
+
+"Chill House Vol. 7" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13019-chill-house-vol-7
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Sunset Paradise [The 2026 Remixes]
+
+"Sunset Paradise [The 2026 Remixes]" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13578-sunset-paradise-the-2026-remixes
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Chill House Vol. 6
+
+"Chill House Vol. 6" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13018-chill-house-vol-6
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Chill House Vol. 8
+
+"Chill House Vol. 8" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13049-chill-house-vol-8
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Tropical Island House 2025
+
+"Tropical Island House 2025" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13305-tropical-island-house-2025
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Chill House Vol. 4
+
+"Chill House Vol. 4" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13016-chill-house-vol-4
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Chill House Vol. 3
+
+"Chill House Vol. 3" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13009-chill-house-vol-3
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Chill House Vol. 16
+
+"Chill House Vol. 16" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13148-chill-house-vol-16
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Lindener Narren - Schützenfest 2026
+
+"Lindener Narren - Schützenfest 2026" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13821-lindener-narren-schutzenfest-2026
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Chill House Vol. 9
+
+"Chill House Vol. 9" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13050-chill-house-vol-9
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Chill House Vol. 1
+
+"Chill House Vol. 1" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13007-chill-house-vol-1
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Rio Tropical
+
+"Rio Tropical" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13832-rio-tropical
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Spain 2025 - Tropical House 1
+
+"Spain 2025 - Tropical House 1" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13244-spain-2025-tropical-house-1
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Summer Swing 2025
+
+"Summer Swing 2025" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13169-summer-swing-2025
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Deep Trance Vol. 2
+
+"Deep Trance Vol. 2" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13033-deep-trance-vol-2
+Audio unchanged; ID3 attribution metadata updated for distribution.
+
+## Summer Action 2026 Vol. 3
+
+"Summer Action 2026 Vol. 3" by Sascha Ende (ende.app)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Source: https://ende.app/en/song/13639-summer-action-2026-vol-3
+Audio unchanged; ID3 attribution metadata updated for distribution.
