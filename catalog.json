@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-16T22:38:38+00:00",
+  "revision": "2026-10-16T23:21:22+00:00",
   "tracks": [
     {
       "id": "softbeat",
@@ -233,6 +233,106 @@
         "url": "https://creativecommons.org/licenses/by/4.0/"
       },
       "attribution": "\"Funkorama\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100474\nAudio unchanged; ID3 attribution metadata updated for distribution. Videos using this music are synchronized adaptations."
+    },
+    {
+      "id": "best-bros",
+      "title": {
+        "en": "Best Bros — Sascha Ende · CC BY 4.0",
+        "tr": "Best Bros — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Funk",
+      "bpm": 106,
+      "duration": 155.04,
+      "pro": true,
+      "file": "tracks/best-bros-1e94d84a82ce00d8.mp3",
+      "bytes": 2481911,
+      "sha256": "1e94d84a82ce00d87e392e516deb98a1ba24bc20724af7ccdd20d28a3f635b27",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13934-best-bros",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Best Bros\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13934-best-bros\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "releaseDate": "2026-10-14",
+      "aiAssisted": true,
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "paranormal-hotline",
+      "title": {
+        "en": "Paranormal Hotline — Sascha Ende · CC BY 4.0",
+        "tr": "Paranormal Hotline — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Synth Funk",
+      "bpm": 119,
+      "duration": 219.624,
+      "pro": true,
+      "file": "tracks/paranormal-hotline-d976f3291b5b925c.mp3",
+      "bytes": 3515357,
+      "sha256": "d976f3291b5b925cf1ae07c1fd005b0f3a2fd3af5d63a08cfc707fee6f030ebf",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13906-the-real-80s-paranormal-hotline",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Paranormal Hotline\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13906-the-real-80s-paranormal-hotline\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "releaseDate": "2026-10-03",
+      "aiAssisted": true,
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "tropical-island-house-2026",
+      "title": {
+        "en": "Tropical Island House 2026 — Sascha Ende · CC BY 4.0",
+        "tr": "Tropical Island House 2026 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Tropical House",
+      "bpm": 100,
+      "duration": 147.84,
+      "pro": true,
+      "file": "tracks/tropical-island-house-2026-39b23981f3598360.mp3",
+      "bytes": 2366830,
+      "sha256": "39b23981f3598360ef10cb54b471e0f7c9e7fe56822ac7fed508c4137406f122",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13785-tropical-island-house-2026",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Tropical Island House 2026\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13785-tropical-island-house-2026\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "releaseDate": "2026-07-02",
+      "aiAssisted": true,
+      "bpmEstimated": true,
+      "audioBitrate": 128000
+    },
+    {
+      "id": "spring-of-2026",
+      "title": {
+        "en": "Spring of 2026 — Sascha Ende · CC BY 4.0",
+        "tr": "Spring of 2026 — Sascha Ende · CC BY 4.0"
+      },
+      "genre": "Dance Pop",
+      "bpm": 118,
+      "duration": 179.952,
+      "pro": true,
+      "file": "tracks/spring-of-2026-6b1d14cd43fe8dbb.mp3",
+      "bytes": 2880538,
+      "sha256": "6b1d14cd43fe8dbba21a1f62252acd5dae5a4662d6aeb631d44b4982b1833def",
+      "artist": "Sascha Ende",
+      "source": "https://ende.app/en/song/13618-spring-of-2026",
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "attribution": "\"Spring of 2026\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13618-spring-of-2026\nAudio unchanged; ID3 attribution metadata updated for distribution.",
+      "releaseDate": "2026-03-16",
+      "aiAssisted": true,
+      "bpmEstimated": true,
+      "audioBitrate": 128000
     }
   ]
 }
