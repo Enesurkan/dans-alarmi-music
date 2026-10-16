@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "revision": "2026-10-16T19:45:00+00:00",
+  "tracks": [
+    {
+      "id": "softbeat",
+      "title": {
+        "en": "Soft beat",
+        "tr": "Yumuşak ritim",
+        "de": "Sanfter Beat",
+        "es": "Ritmo suave",
+        "pt-BR": "Batida suave",
+        "fr": "Rythme doux"
+      },
+      "genre": "Lo-Fi",
+      "bpm": 80,
+      "duration": 48.0,
+      "pro": false,
+      "file": "tracks/softbeat-f49855c29a68d011.wav",
+      "bytes": 4233644,
+      "sha256": "f49855c29a68d011c538ed248507e892368fd79cdf6abb01e4892ba4ae9e2403"
+    },
+    {
+      "id": "bounce",
+      "title": {
+        "en": "A little energy",
+        "tr": "Biraz enerji",
+        "de": "Etwas Energie",
+        "es": "Un poco de energía",
+        "pt-BR": "Um pouco de energia",
+        "fr": "Un peu d'énergie"
+      },
+      "genre": "Funk",
+      "bpm": 100,
+      "duration": 38.4,
+      "pro": false,
+      "file": "tracks/bounce-bb2166014751f88b.wav",
+      "bytes": 3386924,
+      "sha256": "bb2166014751f88b9c7257142eb97920116adfbbb6f4d79eda29cd7a07ddcc4d"
+    },
+    {
+      "id": "groove",
+      "title": {
+        "en": "Morning groove",
+        "tr": "Sabah akışı",
+        "de": "Morgengroove",
+        "es": "Ritmo matinal",
+        "pt-BR": "Balanço da manhã",
+        "fr": "Rythme du matin"
+      },
+      "genre": "House",
+      "bpm": 110,
+      "duration": 34.90907029478458,
+      "pro": true,
+      "file": "tracks/groove-7962bf9fbb5491e2.wav",
+      "bytes": 3079024,
+      "sha256": "7962bf9fbb5491e2c67947e4886a3ae9aa64062c211444da90272541545f5a02"
+    },
+    {
+      "id": "clap",
+      "title": {
+        "en": "Clap",
+        "tr": "El çırp",
+        "de": "Klatschen",
+        "es": "Palmadas",
+        "pt-BR": "Palmas",
+        "fr": "Claquements de mains"
+      },
+      "genre": "Electro",
+      "bpm": 96,
+      "duration": 40.0,
+      "pro": true,
+      "file": "tracks/clap-9b8f381db7c68823.wav",
+      "bytes": 3528044,
+      "sha256": "9b8f381db7c688236e862436148dc647e2e148dd04ae6a7a6b2e3b76e45c6f1c"
+    },
+    {
+      "id": "steps",
+      "title": {
+        "en": "Small steps",
+        "tr": "Küçük adımlar",
+        "de": "Kleine Schritte",
+        "es": "Pequeños pasos",
+        "pt-BR": "Pequenos passos",
+        "fr": "Petits pas"
+      },
+      "genre": "Chill",
+      "bpm": 90,
+      "duration": 42.666666666666664,
+      "pro": true,
+      "file": "tracks/steps-b89f168f0a37557d.wav",
+      "bytes": 3763244,
+      "sha256": "b89f168f0a37557d38db822b4e448a9587b72a1781b3cd0d62e34b7534eed50d"
+    },
+    {
+      "id": "disco",
+      "title": {
+        "en": "Start the day",
+        "tr": "Güne başla",
+        "de": "Den Tag beginnen",
+        "es": "Empezar el día",
+        "pt-BR": "Começar o dia",
+        "fr": "Commencer la journée"
+      },
+      "genre": "Disco",
+      "bpm": 120,
+      "duration": 32.0,
+      "pro": true,
+      "file": "tracks/disco-2e99649531d08c5b.wav",
+      "bytes": 2822444,
+      "sha256": "2e99649531d08c5b357d9fe86f78fc65d037620763956edf933efe2614f7f913"
+    },
+    {
+      "id": "morning-groove",
+      "title": {
+        "en": "Morning Groove",
+        "tr": "Sabah kıpırtısı",
+        "de": "Morgengroove",
+        "es": "Ritmo de mañana",
+        "pt-BR": "Balanço da manhã",
+        "fr": "Groove du matin"
+      },
+      "genre": "Funk",
+      "bpm": 104,
+      "duration": 36.92308390022676,
+      "pro": false,
+      "file": "tracks/morning-groove-c843e743692c1c80.wav",
+      "bytes": 3256660,
+      "sha256": "c843e743692c1c80ac9e0e3acdd46576a97fc304fb72c6a56332f16d33ad1c1b"
+    }
+  ]
+}
