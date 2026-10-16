@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-16T22:20:42+00:00",
+  "revision": "2026-10-16T22:38:38+00:00",
   "tracks": [
     {
       "id": "softbeat",
@@ -155,7 +155,7 @@
       "genre": "Tropical House",
       "bpm": 105,
       "duration": 187.4808,
-      "pro": false,
+      "pro": true,
       "file": "tracks/paradise-found-8aeb45ad5a4c7dd1.mp3",
       "bytes": 3750797,
       "sha256": "8aeb45ad5a4c7dd126353ab411b0c999ef4d328f69c4fc6dc0aa76b39cd36569",
@@ -177,7 +177,7 @@
       "genre": "Jazz / Lounge",
       "bpm": 128,
       "duration": 193.201656,
-      "pro": false,
+      "pro": true,
       "file": "tracks/lobby-time-5bede687488b9d4c.mp3",
       "bytes": 6183618,
       "sha256": "5bede687488b9d4c0a8a381df63a96f84fe6590c5c198bad9cbdd05659aa7a6b",
@@ -199,7 +199,7 @@
       "genre": "Disco",
       "bpm": 115,
       "duration": 221.283281,
-      "pro": false,
+      "pro": true,
       "file": "tracks/disco-medusae-01ec68ddf56d5ea2.mp3",
       "bytes": 7082242,
       "sha256": "01ec68ddf56d5ea258306f2a615e3615a916a1bff9b9fc51a027b57dfe54e8ec",
@@ -221,7 +221,7 @@
       "genre": "Funk",
       "bpm": 101,
       "duration": 201.456325,
-      "pro": false,
+      "pro": true,
       "file": "tracks/funkorama-d155c3f5153c84b4.mp3",
       "bytes": 8059414,
       "sha256": "d155c3f5153c84b425a7dde303083dba8f9b58bd4a0187307995d43048a240d4",
