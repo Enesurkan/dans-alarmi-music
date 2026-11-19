@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-11-19T19:26:57+00:00",
+  "revision": "2026-11-19T19:47:02+00:00",
   "tracks": [
     {
       "id": "softbeat",
@@ -872,6 +872,106 @@
         "url": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
       "attribution": "\"Lightly\" by Ivan Kiselyov.\nCC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/\nSource: https://github.com/KDE/plasma-mobile-sounds/blob/master/plasma-mobile/stereo/ringtones/Lightly.oga\nLevel adjusted and short fades applied. Resampled to 22.05 kHz and encoded as MP3."
+    },
+    {
+      "id": "alarm-on-the-way",
+      "title": {
+        "en": "On the Way",
+        "tr": "Yolda",
+        "de": "Unterwegs",
+        "es": "En camino",
+        "pt-BR": "A caminho",
+        "fr": "En route"
+      },
+      "genre": "Melodic Alarms",
+      "bpm": 140,
+      "duration": 27.48075,
+      "pro": false,
+      "file": "tracks/alarm-on-the-way-63cc3a7eead7c5c6.mp3",
+      "bytes": 219846,
+      "sha256": "63cc3a7eead7c5c60051766aa528ad9cdd42f597cff9d81e835cbf67ea0c3154",
+      "artist": "Ivan Kiselyov",
+      "source": "https://github.com/KDE/plasma-mobile-sounds/blob/master/plasma-mobile/stereo/ringtones/On%20The%20Way.oga",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "attribution": "\"On The Way\" by Ivan Kiselyov.\nCC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/\nSource: https://github.com/KDE/plasma-mobile-sounds/blob/master/plasma-mobile/stereo/ringtones/On%20The%20Way.oga\nOpening excerpt from the Plasma Mobile Sounds ringtone. Level adjusted; short fades applied; resampled to 22.05 kHz and encoded as MP3."
+    },
+    {
+      "id": "alarm-sunrise-birds",
+      "title": {
+        "en": "Morning Birds",
+        "tr": "Sabah Kuşları",
+        "de": "Morgenvögel",
+        "es": "Pájaros al amanecer",
+        "pt-BR": "Pássaros ao amanhecer",
+        "fr": "Oiseaux du matin"
+      },
+      "genre": "Nature Alarms",
+      "bpm": 60,
+      "duration": 29.074167,
+      "pro": false,
+      "file": "tracks/alarm-sunrise-birds-432fc6b57cea258b.mp3",
+      "bytes": 174445,
+      "sha256": "432fc6b57cea258b9dc6494bcae1b6e37524b7cd3d305bf67ec2c74b547fb35e",
+      "artist": "Joseph Sardin",
+      "source": "https://commons.wikimedia.org/wiki/File:R%C3%A9veil_des_oiseaux.ogg",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "attribution": "\"Réveil des oiseaux\" by Joseph Sardin.\nCC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/\nSource: https://commons.wikimedia.org/wiki/File:R%C3%A9veil_des_oiseaux.ogg\nAlarm excerpt from OpenAlarm. Credits: https://github.com/gretzke/open-alarm/blob/main/OpenAlarm/Resources/Ringtones/SOURCES.md#nature-and-classic-alarm-sounds\nLevel adjusted; short fades applied; resampled to 22.05 kHz and encoded as MP3."
+    },
+    {
+      "id": "alarm-wind-chimes",
+      "title": {
+        "en": "Wind Chimes",
+        "tr": "Rüzgâr Çanı",
+        "de": "Windspiel",
+        "es": "Campanillas de viento",
+        "pt-BR": "Sinos de vento",
+        "fr": "Carillon éolien"
+      },
+      "genre": "Nature Alarms",
+      "bpm": 60,
+      "duration": 29.048167,
+      "pro": true,
+      "file": "tracks/alarm-wind-chimes-afa86ff833d9c200.mp3",
+      "bytes": 174289,
+      "sha256": "afa86ff833d9c200a962231b765b4535ff638419b6d86dff80fca61b795eb47a",
+      "artist": "Membeth",
+      "source": "https://commons.wikimedia.org/wiki/File:Windglockenspiel.Koshi.ogg",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "attribution": "\"Koshi wind chime\" by Membeth.\nCC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/\nSource: https://commons.wikimedia.org/wiki/File:Windglockenspiel.Koshi.ogg\nAlarm excerpt from OpenAlarm. Credits: https://github.com/gretzke/open-alarm/blob/main/OpenAlarm/Resources/Ringtones/SOURCES.md#nature-and-classic-alarm-sounds\nLevel adjusted; short fades applied; resampled to 22.05 kHz and encoded as MP3."
+    },
+    {
+      "id": "alarm-forest-stream",
+      "title": {
+        "en": "Forest Stream",
+        "tr": "Orman Deresi",
+        "de": "Waldbach",
+        "es": "Arroyo del bosque",
+        "pt-BR": "Riacho na floresta",
+        "fr": "Ruisseau en forêt"
+      },
+      "genre": "Nature Alarms",
+      "bpm": 60,
+      "duration": 29.074167,
+      "pro": true,
+      "file": "tracks/alarm-forest-stream-5a8b01c14ce4fc8f.mp3",
+      "bytes": 174445,
+      "sha256": "5a8b01c14ce4fc8f41c8277b1b34139f1f590daf41cddc9b8e658687d12986ef",
+      "artist": "cher1101",
+      "source": "https://freesound.org/people/cher1101/sounds/671947/",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "attribution": "\"Small running forest stream\" by cher1101.\nCC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/\nSource: https://freesound.org/people/cher1101/sounds/671947/\nAlarm excerpt from OpenAlarm. Credits: https://github.com/gretzke/open-alarm/blob/main/OpenAlarm/Resources/Ringtones/SOURCES.md#nature-and-classic-alarm-sounds\nLevel adjusted; short fades applied; resampled to 22.05 kHz and encoded as MP3."
     }
   ]
 }
