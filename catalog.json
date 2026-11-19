@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-10-16T23:25:05+00:00",
+  "revision": "2026-11-19T19:26:57+00:00",
   "tracks": [
     {
       "id": "softbeat",
@@ -747,6 +747,131 @@
       "attribution": "\"Summer Action 2026 Vol. 3\" by Sascha Ende (ende.app)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://ende.app/en/song/13639-summer-action-2026-vol-3\nAudio unchanged; ID3 attribution metadata updated for distribution.",
       "bpmEstimated": true,
       "audioBitrate": 128000
+    },
+    {
+      "id": "alarm-bedside-quad",
+      "title": {
+        "en": "Bedside Quad",
+        "tr": "Dört Bip",
+        "de": "Vier Pieptöne",
+        "es": "Cuatro pitidos",
+        "pt-BR": "Quatro bipes",
+        "fr": "Quatre bips"
+      },
+      "genre": "Classic Alarms",
+      "bpm": 50,
+      "duration": 12.0,
+      "pro": true,
+      "file": "tracks/alarm-bedside-quad-991c92c68bb6ce77.wav",
+      "bytes": 529244,
+      "sha256": "991c92c68bb6ce77cbe41eb23601922553301e69238445862babf75f815ea5ae",
+      "artist": "OpenAlarm project",
+      "source": "https://github.com/gretzke/open-alarm/blob/main/OpenAlarm/Resources/Ringtones/SOURCES.md#project-generated-digital-alarm-tones",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "attribution": "\"Bedside Quad\" by OpenAlarm project.\nCC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/\nSource: https://github.com/gretzke/open-alarm/blob/main/OpenAlarm/Resources/Ringtones/SOURCES.md#project-generated-digital-alarm-tones\nRepeated the one-second motif with 0.2-second gaps; level adjusted and short fades applied. Resampled to 22.05 kHz PCM WAV."
+    },
+    {
+      "id": "alarm-electronic-buzzer",
+      "title": {
+        "en": "Electronic Alarm",
+        "tr": "Elektronik Alarm",
+        "de": "Elektronischer Wecker",
+        "es": "Alarma electrónica",
+        "pt-BR": "Alarme eletrônico",
+        "fr": "Alarme électronique"
+      },
+      "genre": "Classic Alarms",
+      "bpm": 60,
+      "duration": 21.969,
+      "pro": false,
+      "file": "tracks/alarm-electronic-buzzer-04333a8279a88984.mp3",
+      "bytes": 131814,
+      "sha256": "04333a8279a889844344dae8478a7a14579d6b705ff165133142d7b8110e8d1b",
+      "artist": "Joseph Sardin",
+      "source": "https://bigsoundbank.com/electronic-alarm-buzzer-1-s0035.html",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "attribution": "\"Electronic Alarm (Buzzer) #1\" by Joseph Sardin.\nCC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/\nSource: https://bigsoundbank.com/electronic-alarm-buzzer-1-s0035.html\nLevel adjusted; short fades applied. Resampled to 22.05 kHz and encoded as MP3."
+    },
+    {
+      "id": "alarm-mechanical-bell",
+      "title": {
+        "en": "Mechanical Alarm Clock",
+        "tr": "Mekanik Çalar Saat",
+        "de": "Mechanischer Wecker",
+        "es": "Despertador mecánico",
+        "pt-BR": "Despertador mecânico",
+        "fr": "Réveil mécanique"
+      },
+      "genre": "Classic Alarms",
+      "bpm": 60,
+      "duration": 13.453,
+      "pro": true,
+      "file": "tracks/alarm-mechanical-bell-ff1a1695ed348225.mp3",
+      "bytes": 80718,
+      "sha256": "ff1a1695ed3482254dd82c90a24b12589de1e7f7fa5b1a6d5f9b4b8585d9c876",
+      "artist": "Joseph Sardin",
+      "source": "https://bigsoundbank.com/mechanical-alarm-clock-ringtone-11-s2814.html",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "attribution": "\"Mechanical Alarm Clock, Ringtone #11\" by Joseph Sardin.\nCC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/\nSource: https://bigsoundbank.com/mechanical-alarm-clock-ringtone-11-s2814.html\nTrimmed the quiet tail; level adjusted and short fades applied. Resampled to 22.05 kHz and encoded as MP3."
+    },
+    {
+      "id": "alarm-miniature",
+      "title": {
+        "en": "Miniature",
+        "tr": "Minyatür",
+        "de": "Miniatur",
+        "es": "Miniatura",
+        "pt-BR": "Miniatura",
+        "fr": "Miniature"
+      },
+      "genre": "Melodic Alarms",
+      "bpm": 140,
+      "duration": 25.756625,
+      "pro": false,
+      "file": "tracks/alarm-miniature-359cadf27fa98da9.mp3",
+      "bytes": 206053,
+      "sha256": "359cadf27fa98da9e5dd4c74928c9d38fb99bcbf1a5184e93b337edbe0e82541",
+      "artist": "Ivan Kiselyov",
+      "source": "https://github.com/KDE/plasma-mobile-sounds/blob/master/plasma-mobile/stereo/ringtones/Miniature.oga",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "attribution": "\"Miniature\" by Ivan Kiselyov.\nCC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/\nSource: https://github.com/KDE/plasma-mobile-sounds/blob/master/plasma-mobile/stereo/ringtones/Miniature.oga\nUsed the opening excerpt; level adjusted and short fades applied. Resampled to 22.05 kHz and encoded as MP3."
+    },
+    {
+      "id": "alarm-lightly",
+      "title": {
+        "en": "Lightly",
+        "tr": "Hafifçe",
+        "de": "Ganz sanft",
+        "es": "Levemente",
+        "pt-BR": "De leve",
+        "fr": "Tout en douceur"
+      },
+      "genre": "Melodic Alarms",
+      "bpm": 140,
+      "duration": 27.48075,
+      "pro": true,
+      "file": "tracks/alarm-lightly-38801b558eb4be28.mp3",
+      "bytes": 219846,
+      "sha256": "38801b558eb4be284596979e543e5c1dc8d8d434c138c31182c0fc0546d60fe8",
+      "artist": "Ivan Kiselyov",
+      "source": "https://github.com/KDE/plasma-mobile-sounds/blob/master/plasma-mobile/stereo/ringtones/Lightly.oga",
+      "license": {
+        "id": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "attribution": "\"Lightly\" by Ivan Kiselyov.\nCC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/\nSource: https://github.com/KDE/plasma-mobile-sounds/blob/master/plasma-mobile/stereo/ringtones/Lightly.oga\nLevel adjusted and short fades applied. Resampled to 22.05 kHz and encoded as MP3."
     }
   ]
 }
