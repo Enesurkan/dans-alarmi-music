@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-11-19T19:47:02+00:00",
+  "revision": "2026-11-24T21:00:35+00:00",
   "tracks": [
     {
       "id": "softbeat",
@@ -972,6 +972,60 @@
         "url": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
       "attribution": "\"Small running forest stream\" by cher1101.\nCC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/\nSource: https://freesound.org/people/cher1101/sounds/671947/\nAlarm excerpt from OpenAlarm. Credits: https://github.com/gretzke/open-alarm/blob/main/OpenAlarm/Resources/Ringtones/SOURCES.md#nature-and-classic-alarm-sounds\nLevel adjusted; short fades applied; resampled to 22.05 kHz and encoded as MP3."
+    },
+    {
+      "id": "daybreak-keys",
+      "title": {
+        "tr": "Gün Doğumu Tuşları",
+        "en": "Daybreak Keys",
+        "de": "Tasten im Morgenlicht",
+        "es": "Teclas al amanecer",
+        "pt-BR": "Teclas ao amanhecer",
+        "fr": "Clavier à l’aube"
+      },
+      "genre": "Chill",
+      "bpm": 88,
+      "duration": 43.702833,
+      "pro": false,
+      "file": "tracks/daybreak-keys-b4f026bed1c7ab5d.mp3",
+      "bytes": 524434,
+      "sha256": "b4f026bed1c7ab5d643d76f485a1ecd0354dc3293bec3419bbeb592ab6aeeb7c"
+    },
+    {
+      "id": "electric-stride",
+      "title": {
+        "tr": "Elektrik Adımlar",
+        "en": "Electric Stride",
+        "de": "Elektrischer Schritt",
+        "es": "Paso eléctrico",
+        "pt-BR": "Passo elétrico",
+        "fr": "Pas électrique"
+      },
+      "genre": "Electro",
+      "bpm": 112,
+      "duration": 34.351,
+      "pro": true,
+      "file": "tracks/electric-stride-67fb140cb1db425e.mp3",
+      "bytes": 412212,
+      "sha256": "67fb140cb1db425e5384d37638854d40a7bc72fffb1f8398258e1f211d915a54"
+    },
+    {
+      "id": "rooftop-disco",
+      "title": {
+        "tr": "Çatı Diskosu",
+        "en": "Rooftop Disco",
+        "de": "Dachterrassen-Disco",
+        "es": "Disco en la azotea",
+        "pt-BR": "Disco no terraço",
+        "fr": "Disco sur les toits"
+      },
+      "genre": "Disco",
+      "bpm": 124,
+      "duration": 31.0335,
+      "pro": true,
+      "file": "tracks/rooftop-disco-55820f0d427fa052.mp3",
+      "bytes": 372402,
+      "sha256": "55820f0d427fa0526ce32506eecff32b82de191d048ae085e7933c2bbd58387a"
     }
   ]
 }
